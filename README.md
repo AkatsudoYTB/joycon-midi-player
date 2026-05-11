@@ -2,6 +2,10 @@
 
 Turn Nintendo Switch Joy-Con controllers into musical instruments using HD Rumble technology.
 
+## 📥 Download
+
+Download the latest version from the [Releases page](https://github.com/AkatsudoYTB/joycon-midi-player/releases).
+
 JoyCon Music Studio lets you:
 
 * 🎼 Play MIDI files directly on one or multiple Joy-Con controllers
@@ -38,7 +42,7 @@ Display note names, MIDI note numbers, frequencies, amplitudes, and timing infor
 * Windows 7 or later (Windows 10/11 recommended)
 * Nintendo Switch Joy-Con controllers
 * Bluetooth support
-* [BetterJoy](https://github.com/Davidobot/BetterJoy/releases/tag/v7.1)
+* [BetterJoy](https://github.com/Davidobot/BetterJoy/releases)
 * MIDI keyboard or virtual MIDI port (optional)
 
 ---
