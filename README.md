@@ -6,7 +6,7 @@ Turn Nintendo Switch Joy-Con controllers into musical instruments using HD Rumbl
 
 Download the latest version from the [Releases page](https://github.com/AkatsudoYTB/joycon-midi-player/releases).
 
-JoyCon Music Studio lets you:
+JoyCon Midi Player lets you:
 
 * 🎼 Play MIDI files directly on one or multiple Joy-Con controllers
 * 🎹 Perform in real time from a MIDI keyboard
