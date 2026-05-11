@@ -35,10 +35,10 @@ Display note names, MIDI note numbers, frequencies, amplitudes, and timing infor
 
 ## 🖥️ Requirements
 
-* Windows 10 or Windows 11
+* Windows 7 or later (Windows 10/11 recommended)
 * Nintendo Switch Joy-Con controllers
 * Bluetooth support
-* BetterJoy (for virtual controller support) "https://github.com/Davidobot/BetterJoy/releases/tag/v7.1"
+* BetterJoy (for virtual controller support) https://github.com/Davidobot/BetterJoy/releases/tag/v7.1
 * MIDI keyboard or virtual MIDI port (optional)
 
 ---
