@@ -1,4 +1,4 @@
-# 🎮 JoyCon Music Studio
+# 🎮 JoyCon Midi Player
 
 Turn Nintendo Switch Joy-Con controllers into musical instruments using HD Rumble technology.
 
